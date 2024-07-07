@@ -10,7 +10,6 @@ This is a simple POC to demonstrate the use of GraphQL with Apollo and prisma.
 4. set the `DATABASE_URL` in the `.env` file
 5. Run `npm run dev`
 
-### Queries
 
 ```graphql
 
